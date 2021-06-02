@@ -1,0 +1,14 @@
+export const SIGNUP = "SIGNUP";
+export const SIGNIN = "SIGNIN";
+export const LOGOUT = "LOGOUT";
+export const AUTH = "AUTH";
+export const SET_SOCKET_REF = "SET_SOCKET_REF"
+export const SET_SELECTED_USER = "SET_SELECTED_USER"
+export const UPDATE_MAPED_MESSAGE = "UPDATE_MAPED_MESSAGE";
+export const FETCH_ALL = "FETCH_ALL";
+export const FETCH_CONVERSATIONS = "FETCH_CONVERSATIONS";
+export const SET_USERS = "SET_USERS";
+export const ADD_USER = 'ADD_USER';
+export const REMOVE_USER = 'REMOVE_USER'
+export const CREATE = "CREATE";
+export const TOOGLEFREINDONLY = "TOOGLEFREINDONLY"

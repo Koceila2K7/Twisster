@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+
+a:visited {
+    color: none;
+    text-decoration: none;
+}
+
+a {
+    color: none;
+    text-decoration: none;
+}
+
+* {
+    box-sizing: "border-box";
+}

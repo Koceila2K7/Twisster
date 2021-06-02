@@ -1,0 +1,10 @@
+{
+    "name": "Twisster API",
+    "version": "0.1.0",
+    "description": "Docummentation de l'API Twisster- L'authentification est faite par le bias de Token JWT et notre api supporte l'authentification via un compte google, pour les appels vocaux et vidéos on utilise le service jitsi meet",
+    "apidoc": {
+        "title": "Twisster API",
+        "url": "http://localhost:8050"
+    },
+    "url": "http://localhost:8050"
+}
